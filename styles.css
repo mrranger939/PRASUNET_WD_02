@@ -81,10 +81,10 @@ li{
     color: white;
     border-radius: 5rem;
 }
-/* .clock span{
+#time span{
     display: contents;
     width: 10vw;
-} */
+}
 .watch h1{
     font-weight: 900;
     letter-spacing: 2px;
